@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWPmr3FNll+rVdvyH1jcZE+/hx9NgrLnJPz4SmzNd48BVQI15NH8KYmAOuJGUeZpMCPT9hyanNuk5cyvfw27hg==",
+  "success": true,
+  "projectFilePath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/DataStructures.csproj",
+  "expectedPackageFiles": [
+    "/Users/yanivdanziger/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yanivdanziger/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

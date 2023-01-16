@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{08EDBB44-4118-4718-85C5-7F0945BE63A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoeWarehouseSystem/Program.cs">
+    <Files>
+      <File FileName="UI/Menu.cs" Line="175" Column="11" />
+      <File FileName="Models/DistributionPoint.cs" />
+      <File FileName="Models/TimeDistributionPointUsed.cs" />
+      <File FileName="Logic/Manager.cs" />
+      <File FileName="ShoeWarehouseSystem/Program.cs" Line="3" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoeWarehouseSystem" expanded="True" selected="True">
+            <Node name="DataStructures" expanded="True" />
+            <Node name="Logic" expanded="True" />
+            <Node name="Models" expanded="True" />
+            <Node name="ShoeWarehouseSystem" expanded="True" />
+            <Node name="UI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ShoeWarehouseSystem PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

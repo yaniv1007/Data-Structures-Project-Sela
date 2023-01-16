@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{08EDBB44-4118-4718-85C5-7F0945BE63A8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShoeWarehouseSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UI/Menu.cs">
+    <Files>
+      <File FileName="UI/Menu.cs" Line="21" Column="29" />
+      <File FileName="DataStructures/CyrcleTruncateQueue.cs" Line="78" Column="24" />
+      <File FileName="Logic/Manager.cs" Line="35" Column="1" />
+      <File FileName="Models/Shoe.cs" Line="53" Column="1" />
+      <File FileName="Logic/ShoeManager.cs" Line="186" Column="1" />
+      <File FileName="DataStructures/BST.cs" Line="156" Column="10" />
+      <File FileName="Logic/LocationManager.cs" Line="1" Column="1" />
+      <File FileName="Models/DateOfPurchaseForModel.cs" Line="1" Column="1" />
+      <File FileName="Models/DistributionPoint.cs" Line="10" Column="41" />
+      <File FileName="ShoeWarehouseSystem/Program.cs" Line="7" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoeWarehouseSystem2" expanded="True">
+            <Node name="DataStructures" expanded="True" />
+            <Node name="Logic" expanded="True" />
+            <Node name="Models" expanded="True" />
+            <Node name="ShoeWarehouseSystem" expanded="True" />
+            <Node name="UI" expanded="True">
+              <Node name="Menu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

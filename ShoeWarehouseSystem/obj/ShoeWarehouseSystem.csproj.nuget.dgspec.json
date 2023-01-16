@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/ShoeWarehouseSystem.csproj": {}
+  },
+  "projects": {
+    "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/DataStructures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/DataStructures.csproj",
+        "projectName": "DataStructures",
+        "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/DataStructures.csproj",
+        "packagesPath": "/Users/yanivdanziger/.nuget/packages/",
+        "outputPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanivdanziger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Logic/Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Logic/Logic.csproj",
+        "projectName": "Logic",
+        "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Logic/Logic.csproj",
+        "packagesPath": "/Users/yanivdanziger/.nuget/packages/",
+        "outputPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Logic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanivdanziger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Models/Models.csproj": {
+                "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Models/Models.csproj",
+        "packagesPath": "/Users/yanivdanziger/.nuget/packages/",
+        "outputPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanivdanziger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/DataStructures.csproj": {
+                "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/DataStructures.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/ShoeWarehouseSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/ShoeWarehouseSystem.csproj",
+        "projectName": "ShoeWarehouseSystem",
+        "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/ShoeWarehouseSystem.csproj",
+        "packagesPath": "/Users/yanivdanziger/.nuget/packages/",
+        "outputPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanivdanziger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/UI/UI.csproj": {
+                "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/UI/UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.26, 3.1.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/UI/UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/UI/UI.csproj",
+        "projectName": "UI",
+        "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/UI/UI.csproj",
+        "packagesPath": "/Users/yanivdanziger/.nuget/packages/",
+        "outputPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/UI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanivdanziger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/DataStructures.csproj": {
+                "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/DataStructures.csproj"
+              },
+              "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Logic/Logic.csproj": {
+                "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Logic/Logic.csproj"
+              },
+              "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Models/Models.csproj": {
+                "projectPath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

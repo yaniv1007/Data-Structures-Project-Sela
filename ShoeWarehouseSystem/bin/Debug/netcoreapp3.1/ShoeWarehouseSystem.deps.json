@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ShoeWarehouseSystem/1.0.0": {
+        "dependencies": {
+          "UI": "1.0.0"
+        },
+        "runtime": {
+          "ShoeWarehouseSystem.dll": {}
+        }
+      },
+      "DataStructures/1.0.0": {
+        "runtime": {
+          "DataStructures.dll": {}
+        }
+      },
+      "Logic/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "Logic.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "dependencies": {
+          "DataStructures": "1.0.0"
+        },
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
+      "UI/1.0.0": {
+        "dependencies": {
+          "DataStructures": "1.0.0",
+          "Logic": "1.0.0",
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoeWarehouseSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

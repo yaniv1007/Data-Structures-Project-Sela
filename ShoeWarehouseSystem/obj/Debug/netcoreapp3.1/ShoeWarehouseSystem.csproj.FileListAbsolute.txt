@@ -1,0 +1,89 @@
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.deps.json
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.runtimeconfig.json
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.runtimeconfig.dev.json
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.dll
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.pdb
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/UI.dll
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/UI.pdb
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.AssemblyReference.cache
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.AssemblyInfoInputs.cache
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.AssemblyInfo.cs
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.CoreCompileInputs.cache
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.CopyComplete
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.dll
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.pdb
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.genruntimeconfig.cache
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Models.dll
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Logic.dll
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Logic.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.deps.json
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.runtimeconfig.json
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.runtimeconfig.dev.json
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Logic.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Models.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/UI.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/UI.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Logic.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.AssemblyReference.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.AssemblyInfoInputs.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.AssemblyInfo.cs
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.CoreCompileInputs.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.CopyComplete
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.genruntimeconfig.cache
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.deps.json
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.runtimeconfig.json
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.runtimeconfig.dev.json
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.dll
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.pdb
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Logic.dll
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Models.dll
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/UI.dll
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/UI.pdb
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Logic.pdb
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.AssemblyReference.cache
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.AssemblyInfoInputs.cache
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.AssemblyInfo.cs
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.CoreCompileInputs.cache
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.CopyComplete
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.dll
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.pdb
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.genruntimeconfig.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.deps.json
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.runtimeconfig.json
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.runtimeconfig.dev.json
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/ShoeWarehouseSystem.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Logic.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Models.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/UI.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/UI.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Logic.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.AssemblyReference.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.AssemblyInfoInputs.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.AssemblyInfo.cs
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.CoreCompileInputs.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.csproj.CopyComplete
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/obj/Debug/netcoreapp3.1/ShoeWarehouseSystem.genruntimeconfig.cache

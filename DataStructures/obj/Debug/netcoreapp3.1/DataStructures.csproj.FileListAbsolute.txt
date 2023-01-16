@@ -1,0 +1,40 @@
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.deps.json
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.AssemblyReference.cache
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfoInputs.cache
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfo.cs
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.CoreCompileInputs.cache
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Projects/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.deps.json
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.AssemblyReference.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfoInputs.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfo.cs
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.CoreCompileInputs.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.deps.json
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.AssemblyReference.cache
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfoInputs.cache
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfo.cs
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.CoreCompileInputs.cache
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.deps.json
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.AssemblyReference.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfoInputs.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfo.cs
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.CoreCompileInputs.cache
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.dll
+/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.pdb

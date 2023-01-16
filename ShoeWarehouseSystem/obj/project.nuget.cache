@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAgvmr/IwHRABBpH6Aa9XbVD1ImjLV70wOp7NEgWifBrAO454lzurnV5jxro/AU4CHOBrlHq6auZRVvhq5HhuQ==",
+  "success": true,
+  "projectFilePath": "/Users/yanivdanziger/Desktop/לוחמים להייטק/DS and Algorithm /DS Project/ShoeWarehouseSystem2/ShoeWarehouseSystem/ShoeWarehouseSystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/yanivdanziger/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yanivdanziger/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512",
+    "/Users/yanivdanziger/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
